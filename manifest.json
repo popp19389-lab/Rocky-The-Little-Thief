@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Rocky The Little Thief",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Rocky Thief",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Rocky The Little Thief mobile web game"
+}
